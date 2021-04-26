@@ -1,0 +1,20 @@
+PODS:
+  - IBAnimatable (6.1.0)
+  - ObjectMapper (4.2.0)
+
+DEPENDENCIES:
+  - IBAnimatable
+  - ObjectMapper
+
+SPEC REPOS:
+  trunk:
+    - IBAnimatable
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  IBAnimatable: 99dddd4c0625884a301ba3ecbc1615f8a390368e
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+
+PODFILE CHECKSUM: 341768e5f85d7824aae12cff9a6fd3da74e20f67
+
+COCOAPODS: 1.10.0

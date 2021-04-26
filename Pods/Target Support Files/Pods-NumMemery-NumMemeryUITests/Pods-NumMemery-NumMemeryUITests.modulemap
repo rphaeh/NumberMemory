@@ -1,0 +1,6 @@
+framework module Pods_NumMemery_NumMemeryUITests {
+  umbrella header "Pods-NumMemery-NumMemeryUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
